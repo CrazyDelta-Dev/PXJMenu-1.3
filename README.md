@@ -1,4 +1,4 @@
-##PXJMenu 1.3
+## PXJMenu 1.3
 
 This Is A Old Version Of **_PXJMenu_** So Please Dont Make Ticket Asking For Help On This Version in Discord
 ## How To Use?
